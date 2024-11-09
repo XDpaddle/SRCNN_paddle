@@ -48,8 +48,7 @@ python train.py --train-file "BLAH_BLAH/91-image_x3.h5" \
 
 ## Test
 
-Pre-trained weights can be downloaded from the links below.
-
+Pre-trained weights can be found in BLAH_BLAH
 | Model | Scale | Link |
 |-------|-------|------|
 | 9-5-5 | 2 | [Download](https://www.dropbox.com/s/rxluu1y8ptjm4rn/srcnn_x2.pth?dl=0) |
